@@ -1,6 +1,6 @@
 # Image Background Remover in the browser 
 
-A powerful React + Vite application that removes backgrounds from images directly in your browser. This app leverages machine learning models through Transformers.js to process media locally, ensuring your files never leave your device.
+Blazing-fast image background removal powered by AI. Uses WebGPU acceleration for maximum speed, processes everything locally in your browser.
 
 ## Features
 
