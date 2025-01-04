@@ -41,7 +41,7 @@ export default function App() {
 
   useEffect(() => {
     if (isMobileSafari()) {
-      window.location.href = 'https://bg-mobile.addy.ie';
+      window.location.href = 'https://bg-remove-webgpu.vercel.app/';
       return;
     }
 
@@ -222,7 +222,7 @@ export default function App() {
                 Upload your image and let our AI remove the background instantly. Perfect for professional photos, product images, and more.
               </p>
               <p className="text-sm text-gray-300 mt-4">
-                Built with ❤️ by fr4nk using Transformers.js and WebGPU
+                Built with love by fr4nk using Transformers.js and WebGPU
               </p>
             </div>
           )}
