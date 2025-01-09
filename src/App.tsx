@@ -41,7 +41,7 @@ export default function App() {
 
   useEffect(() => {
     if (isMobileSafari()) {
-      window.location.href = 'https://bg-remove-webgpu.vercel.app/';
+      window.location.href = 'https://bg-mobile.addy.ie';
       return;
     }
 
